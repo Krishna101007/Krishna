@@ -1,0 +1,827 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Ysabeau+SC:wght@1..1000&display=swap');
+
+*
+{
+	margin: 0;
+	padding: 0;
+	font-family: Ysabeau SC;
+	;
+}
+
+.first
+{
+	height: 780px;
+	width: 100%;	
+	background: url(altas.png) center;
+	background-size: cover;
+	color: white;
+}
+nav
+{
+	height: 80px;
+	width: 88%;
+	position: relative;
+	align-content: center;
+	justify-items: center;
+	top: 25px;
+	left: 85px;
+
+}
+a
+{
+	text-decoration: none;
+	color: white;
+}
+#a
+{
+	position: relative;
+	left: 10px;
+	font-size: 25px;
+	top: -7px;
+
+}
+.equip
+{
+	position: relative;
+	top: -12px;
+	left: 40px;
+	font-weight: 600;
+	font-size: 17px;
+}
+.conta
+{
+	position: relative;
+	top: -12px;
+	left: 60px;
+	font-weight: 600;
+	font-size: 17px;
+}
+.logo
+{
+	
+	margin-left: 300px;
+}
+
+#b
+{
+	position: relative;
+	left: 240px;
+	font-size: 15px;
+	top: -20px;
+}
+.num
+{
+	position: relative;
+	top: -20px;
+	left: 247px;
+	font-family: monospace;
+	font-weight: 600;
+	font-size: 21px;
+}
+.line
+{
+	height: 50px;
+	width: 1px;
+	margin-top: -44px;
+	margin-left: 1040px;
+	background: grey;
+}
+#loca
+{
+	float: right;
+	margin-top: -52px;
+	font-family: cursive;
+	margin-right: 35px;
+}
+#loca2
+{
+	position: relative;
+	float: right;
+	right: 78px;
+	text-decoration: underline dashed;
+	font-size: 14px;
+	color: grey;
+	font-weight: bold;
+	margin-top: -25px;
+}
+.logo2
+{
+	position: relative;
+	left: 170px;
+	font-size: 12px;
+	font-weight: bolder;
+	color: grey;
+	top: 2px;
+}
+
+.abso
+{
+	position: relative;
+	height: 100px;
+	width: 220px;
+	font-size: 35px;
+	left: 270px;
+	bottom: 110px;
+	font-weight: 500;
+}
+.mouse
+{
+	position: relative;
+	height: 100px;
+	width: 230px;
+	bottom: 110px;
+	left: 250px; 
+}
+
+
+.second
+{
+	height: 110px;
+	width: 100%;
+	background: white;
+	box-shadow: 0 5px 30px 0 rgba(0, 0, 0, 0.1);
+	align-content: center;
+	justify-items: center;
+	z-index: 1;
+	top: 0;
+	position: sticky;
+}
+#seco
+{
+	color: black;
+}
+#seco:hover
+{
+	color: #7398ff;
+	transition: 1s;
+}
+.btn1
+{
+	height: 55px;
+	width: 300px;
+	font-size: 17px;
+	background: black;
+	color: white;
+	font-weight: bold;
+	margin-left: 350px;
+	border: none;
+}
+.btn1:hover
+{
+	background: #7398ff;
+	transition: 1s;
+	cursor: pointer;
+}
+
+
+#third
+{
+	height: 750px;
+	width: 100%;
+	background: whitesmoke;
+}
+.a1
+{
+	height: 650px;
+	width: 50%;
+	background: whitesmoke;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.a11
+{
+	height:400px;
+	width: 470px;
+	background: url(1.jpg);
+	float: right;
+	margin-right: 20px;
+	margin-top: 50px;
+}
+.a11:hover
+{
+	transform: scale(1.1);
+	transition: 1s;
+	cursor: pointer;
+}
+.a12
+{
+	height: 200px;
+	width: 300px;
+	background: url(2.jpg)no-repeat;
+	float: right;
+	position: relative;
+	margin-top: -60px;
+	margin-right: 70px;
+}
+.a12:hover
+{
+	transform: scale(1.1);
+	transition: 1s;
+	cursor: pointer;
+}
+.a13
+{
+	height: 180px;
+	width: 180px;
+	background: url(3.jpg)no-repeat;
+	float: right;
+	position: relative;
+	margin-top: -120px;
+	margin-right: 45px;
+}
+.a13:hover
+{
+	transform: scale(1.1);
+	transition: 1s;
+	cursor: pointer;
+}
+.a2
+{
+	height: 640px;
+	width: 40%;
+	background: whitesmoke;
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.p1
+{
+	font-size: 29px;
+	margin-top: 80px;
+}
+.p2
+{
+	color: grey;
+}
+.p3
+{
+	margin-top: 50px;
+	font-size: 18px;
+	margin-left: 70px;
+	color: black;
+}
+.p4
+{
+	height: 110px;
+	width: 110px;
+	margin-top: 30px;
+	margin-left: 20px;
+	background: url(modi.jpg)center;
+	background-size: cover;
+	border-radius: 50%;
+	float: left;
+}
+.p5
+{
+	height: 100px;
+	width: 300px;
+	margin-left: 20px;
+	margin-top: 30px;
+	float: left;
+}
+#virus
+{
+	font-size: 40px;
+	margin-left: -45px;
+	color:  #7398ff;
+}
+
+
+#fourth
+{
+	height: 670px;
+	width: 100%;
+	background: black;
+}
+.f1
+{
+	height: 630px;
+	width: 70%;
+	float: left;
+}
+.f2
+{
+	height: 400px;
+	width: 30%;
+	margin-top: 140px;
+	float: left;	
+	color: #ffffff;
+}
+.col-btn
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background:#dcdde1;
+	border-radius: 50%;
+	border: none;
+	
+}
+.col-btn2
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background: #c9bfb3;
+	border-radius: 50%;
+	border: none;
+	
+}
+.col-btn3
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background: #997459;
+	border-radius: 50%;
+	border: none;
+	
+}
+.col-btn4
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background: #ffffff;
+	border-radius: 50%;
+	border: none;
+	
+}
+.col-btn5
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background: #b6565c;
+	border-radius: 50%;
+	border: none;
+	
+}
+.col-btn6
+{
+	height: 15px;
+	width: 15px;
+	cursor: pointer;
+	background:  #222222;
+	border-radius: 50%;
+	border: none;	
+}
+.col-btn:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}.col-btn2:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}.col-btn3:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}.col-btn4:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}.col-btn5:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}
+.col-btn6:hover
+{
+	transform: scale(1.2);
+	transition: 1s;
+}
+
+
+#str,#str2,#str3,#str4,#str5,#str6
+{
+	font-weight: 200;
+	margin-left: 15px;
+	cursor: pointer;
+	color: white;
+}
+
+/*fifth*/
+
+#fifth
+{
+	height: 650px;
+	width: 100%;
+	background: black;
+	color: white;
+}
+
+.f11
+{
+	height: 450px;
+	width: 25%;
+	float: left;
+	margin-left: 135px;
+	margin-top: 100px;
+	cursor: pointer;
+	
+
+}
+
+.f22
+{
+	height: 450px;
+	width: 25%;
+	float: left;
+	margin-left: 35px;
+	margin-top: 100px;
+	cursor: pointer;
+	
+
+}
+
+.f33
+{
+	height: 450px;
+	width: 25%;
+	float: left;
+	margin-left: 35px;
+	margin-top: 100px;
+	cursor: pointer;
+	
+
+}
+.f
+{
+	height: 300px;
+	width: 300px;
+	margin-left: 50px;
+}
+.f:hover
+{
+	transform: scale(-1.2);
+	transition: 1s;
+}
+
+.l
+{
+	height: 16px;
+	width: 3px;
+	background: #7398ff;
+	position: relative;
+	top: 25px;
+	left: 10px;
+}
+
+
+.bmw
+{
+	height: 670px;
+	width: 100%;
+	background: url(60.jpg)center;
+	background-size: cover;
+	background-attachment: fixed;
+	top: 0;
+}
+
+/*sixth*/
+
+#sixth
+{
+	height: 800px;
+	width: 100%;
+	background: black;
+	box-shadow:10px 10px 10px 50px black;
+	color: white;
+}
+
+.s1,.s2,.s3,.s4,.s5,.s6
+{
+	height: 250px;
+	width: 350px;
+	background: whitesmoke;
+	float: left;
+	margin-left: 90px;
+	margin-top: 85px;
+	border-radius: 5px;
+}
+#svg
+{
+	height: 100px;
+	width: 100px;
+	background: whitesmoke;
+	margin-top: 10px;
+}
+
+/*seventh*/
+
+#seventh
+{
+	height: 850px;
+	width: 100%;
+	background: black;
+	color: white;
+	
+}
+.se1,.se2
+{
+	height: 180px;
+	width: 550px;
+	background: whitesmoke;
+	border-radius: 10px;
+	float: left;
+	position: relative;
+	margin-left:25px;
+	margin-top: 60px;
+	color: black;
+}
+
+.se1,.se2,.se3,.se4,.se5,.se6 strong
+{
+	font-size: 30px;
+
+	
+}
+
+#se1,#se2,#se3,#se4,#se5,#se6
+{
+	height: 80px;
+	width: 80px;
+	background: #cb2525;
+	position: relative;
+	float: right;
+	position: sticky;
+	color: white;
+}
+
+.se3,.se4
+{
+	height: 200px;
+	width: 550px;
+	background: whitesmoke;
+	border-radius: 10px;
+	float: left;
+	margin-left:25px;
+	margin-top: 30px;
+	color: black;
+}
+.se5,.se6
+{
+	height: 180px;
+	width: 550px;
+	background: whitesmoke;
+	border-radius: 10px;
+	float: left;
+	margin-left:25px;
+	margin-top: 30px;
+	color: black;
+}
+.hov:hover
+{
+	text-decoration: underline dotted 2px #cb2525;
+	transition: 1s;
+	cursor: pointer;
+}
+html
+{
+	scroll-behavior: smooth;
+}
+
+
+/*eight*/
+
+#eight
+{		
+	height: 850px;
+	width: 100%;
+	background: grey;
+}
+
+#Cbtn
+{
+	height: 40px;
+	width: 110px;
+	font-weight: bold;
+	color: white;
+	border: none;
+	border-radius: 5px;
+	margin:8px;
+	background: whitesmoke;
+	cursor: pointer;
+}
+
+.car1
+{
+	height: 250px;
+	width: 250px;
+	background: url(gallery-1.jpg) center;
+	background-size: cover;
+	float: left;
+	position: relative;
+	margin-left: 200px;
+	margin-top: 30px;
+	border-radius: 3px;
+}
+.car1::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car1:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+.car2
+{
+	height: 450px;
+	width: 250px;
+	background: url(gallery-2.jpg) center;
+	background-size: cover;
+	margin-top: 30px;
+	position: relative;
+	margin-left: 30px;
+	border-radius: 3px;
+	float: left;
+}
+.car2::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car2:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+.car3
+{
+	height: 250px;
+	width: 250px;
+	background: url(gallery-3.jpg) center;
+	background-size: cover;
+	margin-top: 30px;
+	position: relative;
+	margin-left: 30px;
+	border-radius: 3px;
+	float: left;
+}
+.car3::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car3:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+.car4
+{
+	height: 160px;
+	width: 250px;
+	background: url(gallery-4.jpg) center;
+	background-size: cover;
+	margin-top: 30px;
+	position: relative;
+	margin-left: 30px;
+	border-radius: 3px;
+	float: left;
+}
+.car4::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car4:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+/*.car5
+{
+	height: 258px;
+	width: 250px;
+	background:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0, 0, 0, 0.7)),url(gallery-5.jpg) center;
+	background-size: cover;
+	background-color: black;
+	margin-top: 30px;
+	margin-left: 30px;
+	position: relative;
+	border-radius: 3px;
+	float: left;
+}
+.car5:hover
+{
+	opacity: .8;
+	transition: 1s;
+	cursor: pointer;
+}*/
+.car5 {
+	height: 258px;
+	width: 250px;
+	background: url(gallery-5.jpg) center;
+	background-size: cover;
+	position: relative;
+	margin-top: 30px;
+	margin-left: 30px;
+	border-radius: 3px;
+	float: left;
+	overflow: hidden; /* Ensure the gradient does not overflow */
+}
+
+.car5::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car5:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+
+.car6
+{
+	height: 175px;	
+	width: 250px;
+	background: url(gallery-6.jpg) center;
+	background-size: cover;
+	margin-top: 30px;
+	margin-left: 30px;
+	position: relative;
+	top: -200px;
+	border-radius: 3px;
+	float: left;
+}
+.car6::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car6:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+
+.car7
+{
+	height: 175px;
+	width: 250px;
+	background: url(gallery-7.jpg) ;
+	background-size: cover;
+	position: relative;
+	margin-top: 305px;
+	margin-left: 200px;
+	border-radius: 3px;
+}
+.car7::before {
+	content: '';
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7));
+	opacity: 0; /* Initially hidden */
+	transition: opacity 0.5s; /* Smooth transition */
+}
+
+.car7:hover::before {
+	opacity: 1; /* Show gradient on hover */
+}
+#bts:hover
+{
+	background: red;
+	transition: 1s;
+	color: white;
+	cursor: pointer;
+}

@@ -1,0 +1,810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ac",
+				"action"
+			],
+			[
+				"co",
+				"color-burn"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"bg",
+				"bgcolor"
+			],
+			[
+				"fo",
+				"font"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"anma",
+				"animation"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"src",
+				"srcset"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"space",
+				"space-evenly"
+			],
+			[
+				"el",
+				"eligible"
+			],
+			[
+				"f",
+				"frm"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"aling",
+				"align-items"
+			],
+			[
+				"spac",
+				"space-evenly"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"lin",
+				"line-height-step"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"gre",
+				"green"
+			],
+			[
+				"nu",
+				"Number"
+			],
+			[
+				"white",
+				"antiquewhite"
+			],
+			[
+				"st",
+				"sticky"
+			],
+			[
+				"s",
+				"sticky"
+			],
+			[
+				"bs",
+				"background-size"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"u",
+				"upload"
+			],
+			[
+				"o",
+				"option"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"a",
+				"adr"
+			],
+			[
+				"e",
+				"Email"
+			],
+			[
+				"p",
+				"ps"
+			],
+			[
+				"l",
+				"label"
+			],
+			[
+				"marinle",
+				"margin-left"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"smo",
+				"whitesmoke"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"c",
+				"contact"
+			],
+			[
+				"con",
+				"contact"
+			],
+			[
+				"he",
+				"here"
+			],
+			[
+				"ht",
+				"html\thtml"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"red",
+				"darkred"
+			],
+			[
+				"t",
+				"tfoot"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"col",
+				"colgroup"
+			],
+			[
+				"T",
+				"table"
+			],
+			[
+				"fwi",
+				"border-left-width"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"margin-b",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"BOL",
+				"block-size"
+			],
+			[
+				"TD",
+				"td"
+			],
+			[
+				"TB",
+				"tbody"
+			],
+			[
+				"h",
+				"hr"
+			],
+			[
+				"S",
+				"sci"
+			],
+			[
+				"M",
+				"math"
+			],
+			[
+				"E",
+				"eng"
+			],
+			[
+				"C",
+				"colspan"
+			],
+			[
+				"lightg",
+				"lightgreen"
+			],
+			[
+				"mari",
+				"margin-right"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"onc",
+				"onclick"
+			],
+			[
+				"FO",
+				"font-size"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-top",
+				"border-top-style"
+			],
+			[
+				"under",
+				"text-underline-position"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"an",
+				"animation-name"
+			],
+			[
+				"ani",
+				"animation-duration"
+			],
+			[
+				"fonts",
+				"font-style"
+			],
+			[
+				"inl",
+				"inline-flex"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"bacc",
+				"background-color"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"whi",
+				"navajowhite"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"r",
+				"rows"
+			],
+			[
+				"B",
+				"br"
+			],
+			[
+				"RE",
+				"required"
+			],
+			[
+				"AC",
+				"action"
+			],
+			[
+				"F",
+				"form"
+			],
+			[
+				"BA",
+				"background-image"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ge",
+				"grey"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bacr",
+				"background-repeat"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"sr",
+				"script"
+			],
+			[
+				"tsn",
+				"transition"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"clor",
+				"color"
+			],
+			[
+				"sm",
+				"whitesmoke"
+			],
+			[
+				"d",
+				"div"
+			],
+			[
+				"gr",
+				"gray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build: Cancel"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 172.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Admin/Desktop/form.html",
+		"/C/Users/Admin/Desktop/switch.c",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 2 👌/Altas.js",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 2 👌/Style.css",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 2 👌/Atlas.html",
+		"/C/Program Files/Sublime Text 3/khushi.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/form.html",
+		"/C/Users/Admin/Desktop/index12.html",
+		"/C/himesh10.html/MARKSHEET 2.html",
+		"/C/himesh10.html/warranty registration form.html",
+		"/C/Users/Admin/Desktop/Krishna/menu-bar.html",
+		"/C/Users/Admin/Desktop/Krishna/fan.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 2 👌/color.html",
+		"/C/Users/Admin/Desktop/Anurag/functionJs.html",
+		"/C/Users/Admin/Desktop/Anurag/addjs.html",
+		"/C/Users/Admin/Desktop/Anurag/css.html",
+		"/C/Users/Admin/Desktop/Anurag/array1.html",
+		"/C/Users/Admin/Desktop/Anurag/Condition.html",
+		"/C/Users/Admin/Desktop/Anurag/addjs",
+		"/C/Adarsh/image&video.html",
+		"/C/Users/Admin/Desktop/vishnu/box_model.html",
+		"/C/himesh10.html/MARKSHEET.HTML",
+		"/C/Adarsh/detail_list.html",
+		"/C/Adarsh/first.html",
+		"/C/himesh10.html/Welcome page.html",
+		"/C/himesh10.html/registration form.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/Krishna.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/journey.css",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/journey.js",
+		"/C/Aryan/success.html",
+		"/C/Aryan/form elements.html",
+		"/C/Aryan/form elements",
+		"/C/himesh10.html/INDEX3.HTML",
+		"/C/himesh10.html/WEBSITE1.HTML",
+		"/C/xampp/htdocs/crud/connect.php",
+		"/C/xampp/htdocs/crud/index.php",
+		"/C/himesh10.html/loginform.html",
+		"/C/Program Files/Sublime Text 3/java.html",
+		"/C/Program Files/Sublime Text 3/Task.html",
+		"/C/Program Files/Sublime Text 3/website.html",
+		"/C/Program Files/Sublime Text 3/portfilo.html",
+		"/C/Aryan/simple website/about.html",
+		"/C/Aryan/simple website/services.html",
+		"/C/Aryan/simple website/contact.html",
+		"/C/Aryan/WEBSITE/INDEX.HTML",
+		"/C/Aryan/simple website/index.html",
+		"/C/Aryan/simple website/GMK.HTML",
+		"/C/Aryan/Task.html",
+		"/C/Aryan/contact page.html",
+		"/C/Aryan/df.html",
+		"/D/Grocery/index.html",
+		"/C/Aryan/sad.html",
+		"/C/Aryan/style.css",
+		"/C/shaikh nabila/table.html",
+		"/C/Users/Admin/Desktop/index1.html",
+		"/C/Program Files/Sublime Text 3/Shaikh nabila",
+		"/D/New folder/script.js",
+		"/D/New folder/netflix.html",
+		"/C/surendra1/text.html",
+		"/C/himesh10.html/INDEX4.HTML",
+		"/C/himesh10.html/(83) Supla Shot ft. Surya _ Mumbai Indians - YouTube.html",
+		"/C/himesh10.html/ROHIT SHARMA.gif",
+		"/C/Users/Admin/Desktop/nishu.html",
+		"/C/Aryan/image_vid.html",
+		"/C/Aryan/img_vid.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/V-Travel - Travel agency Responsive Website Template Preview - ThemeForest.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/PRIYA.HTML",
+		"/C/himesh10.html/java.html",
+		"/C/Users/Admin/Desktop/ritika.exe",
+		"/C/himesh10.html/index.html",
+		"/C/Users/Admin/Desktop/KS.html",
+		"/C/Users/Admin/Desktop/Krishna/dark-light.html",
+		"/C/Aryan/D&L(1).html",
+		"/C/Aryan/d&l.html",
+		"/C/Aryan/second.html",
+		"/C/Aryan/first.html",
+		"/C/Users/Admin/Desktop/Krishna/Light.html",
+		"/C/Users/Admin/Desktop/index.html",
+		"/C/Users/Admin/Desktop/div.html",
+		"/C/nabila/lec1.html",
+		"/C/Users/Admin/Desktop/basic.html",
+		"/C/RITIKA/MOBILE AARAY.HTML",
+		"/C/RITIKA/rahul.html",
+		"/C/RITIKA/rah.html",
+		"/C/Users/Admin/Desktop/c/practice.html",
+		"/C/RITIKA/style.css",
+		"/C/RITIKA/music player.html",
+		"/C/ayman/service.html",
+		"/C/ayman/contact.html",
+		"/C/ayman/index.html",
+		"/C/ayman/about.html",
+		"/C/Program Files/Sublime Text 3/rah.html",
+		"/C/Program Files/Sublime Text 3/rahul.html",
+		"/E/WEB/pokemon pokedex/index.html",
+		"/C/RITIKA/hotel switch.html",
+		"/C/Program Files/Sublime Text 3/new.html",
+		"/C/Program Files/Sublime Text 3/js.html",
+		"/C/ayman/webgallery.html",
+		"/C/ayman/ayman.assignment.html",
+		"/C/Users/Admin/3D Objects/afdas.html",
+		"/C/Users/Admin/Desktop/Krishna/GAME/main/src/main/Main.java",
+		"/C/Users/Admin/Desktop/rehan/5th lec.html",
+		"/C/Users/Admin/Desktop/s/script.js",
+		"/C/Users/Admin/Desktop/hello.html",
+		"/D/Ankit Prajapati/I-Tech/Java Script/Bill/style.css",
+		"/D/Ankit Prajapati/I-Tech/Java Script/Bill/index.html",
+		"/D/@nkit/hotel switch.html",
+		"/C/Program Files/Sublime Text 3/PRIYA/priya.html",
+		"/C/Program Files/Sublime Text 3/fiujhgtf.html",
+		"/C/Users/Admin/Desktop/angel/add.cpp",
+		"/C/RITIKA/style css",
+		"/C/RITIKA/music-player-7792956_1280.webp",
+		"/C/Users/Admin/Desktop/Gudiya/ICIT.HTML",
+		"/C/Users/Admin/Desktop/123123.html",
+		"/C/Users/Admin/Desktop/Krishna/WEBSITE 👌/bootstrapICIT.html",
+		"/C/RITIKA/vedant/contact.html",
+		"/C/RITIKA/vedant/about.html",
+		"/C/Users/Admin/Desktop/Gudiya/MOBILE AARAY.HTML",
+		"/C/Users/Admin/Desktop/angel/company.html",
+		"/C/Users/Admin/Desktop/Gudiya/array.html",
+		"/C/Users/Admin/Documents/ARRAY.html",
+		"/C/ayman/ayman.html",
+		"/C/swaraj/ayman/chapter1.html",
+		"/C/swaraj/index.html",
+		"/C/swaraj/contact.html",
+		"/C/swaraj/about.html",
+		"/C/swaraj/service.html",
+		"/C/swaraj/index,html"
+	],
+	"find":
+	{
+		"height": 58.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 46.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Atlas.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 156.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
