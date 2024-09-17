@@ -177,7 +177,7 @@ a
 	color: #7398ff;
 	transition: 1s;
 }
-.btn1
+#btn1
 {
 	height: 55px;
 	width: 300px;
@@ -188,7 +188,7 @@ a
 	margin-left: 350px;
 	border: none;
 }
-.btn1:hover
+#btn1:hover
 {
 	background: #7398ff;
 	transition: 1s;
