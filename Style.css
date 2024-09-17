@@ -7,7 +7,29 @@
 	font-family: Ysabeau SC;
 	;
 }
+<style type="text/css">
+		
+		/*#pnel  {
+			top:10px;
+ 		position: relative;
+		text-align: center;
+		background-color: blue;
+		border: solid 1px #c3c3c3;		 
+ 		
+		}*/
 
+		#pnel {
+  		height: 500px;
+  		left:25%;
+  		width: 700px;
+  		top: 110px		;
+  		background-color: blue;
+  		display: none;
+  		position: absolute;
+  		align-items: center;
+  		
+
+		}
 .first
 {
 	height: 780px;
